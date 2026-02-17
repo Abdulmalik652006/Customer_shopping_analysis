@@ -7,46 +7,28 @@ The goal is to extract meaningful insights from transactional data, understand c
 The project follows an end-to-end data analytics workflow, from data loading and cleaning to analysis, visualization, and reporting.
 
 📂 Dataset
-
 The dataset contains customer-level transactional and demographic information.
 
 Key features include:
-
 Customer ID
-
 Age
-
 Gender
-
 Subscription Status
-
 Product Category
-
 Purchase Amount (USD)
-
 Review Rating
-
 Previous Purchases
-
 Shipping Type
-
 Payment Method
-
 Dataset Size: ~3,900 records
 Format: CSV
 
 🛠 Tools & Technologies
-
 Python (Pandas, NumPy, Matplotlib)
-
 SQL (PostgreSQL / MySQL / SQL Server)
-
 Jupyter Notebook
-
 Power BI / Tableau (Dashboard)
-
 Gamma (Presentation)
-
 Git & GitHub (Version Control)
 
 🔄 Project Workflow / Steps
