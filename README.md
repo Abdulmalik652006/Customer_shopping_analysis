@@ -89,7 +89,7 @@ Average purchase value is approximately $60
 
 ▶️ How to Run This Project
 1. Clone the Repository
-git clone https://github.com/your-username/customer-shopping-analysis.git
+gitclone(https://github.com/Abdulmalik652006/Customer_shopping_analysis.git)
 
 2. Install Dependencies
 pip install pandas numpy matplotlib sqlalchemy psycopg2
